@@ -53,11 +53,17 @@ HoopSquad는 사용자에게 요금을 받지 않아 접근성을 늘렸으며, 
 
 <br>
 
-## 기술 스택
+## 기술 스택 - 프론트엔드
 
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+| React Native Expo | Javascript |
+| :--------: | :--------: |
+|   <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" width="80px">  |   <img src="https://i.namu.wiki/i/35j02uW8JHheXhLr7EU9q9i5a96IffMh1FH3MGEg0IoDOiIBCFxLXcBlRrGvChWvLDkbCYHBKCAVzh4umSiRAtTnclclfxQtQfpQrRzILBy4op4I4voT9m2l5dErP2yGRBjL1lwVHxZdUvQwaiEBDg.svg" width="80px">    |
+
+## 기술 스택 - 백엔드
+
+| Express | TypeScript |  Prisma   |
+| :--------: | :--------: | :------: |
+|   <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" width="80px">    |   <img src="https://i.namu.wiki/i/6BCaly_IHOsGCno5SofR4NCvQZQp7JzBSaPrRXivLldaA-Rbuceh1oDMN6LfUuZiScaR2eBK7-sGgB-xae_YWA.webp" width="80px">    | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6LfYwHeK--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1608/0f93b179-76bf-4ee7-a838-e8222fbef062.png" width="80px"> |
 
 <br>
 
